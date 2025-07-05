@@ -2,7 +2,7 @@
 
 👩🏻‍💻 BCA graduate exploring the space between tech, creativity & digital storytelling  
 🧠 Passionate about AI/ML, Web Dev & building mood-driven projects  
-🪴 Curating my [Mood Vault](https://mood-vault.hashnode.dev) — a space for coding thoughts, soft-coded advice & cozy project logs  
+🪴 Curating my [Mood Vault](https://roshnimalhotra.hashnode.dev) — a space for coding thoughts, soft-coded advice & cozy project logs  
 💌 Sharing visuals & aesthetic edits on [Instagram](https://instagram.com/roshnii.creates)
 
 
